@@ -1,0 +1,4 @@
+interface:
+  display_name: "贴纸风口播视频工坊"
+  short_description: "将口播稿变成纸拼贴动画、本地克隆旁白和可编辑剪映三轨草稿"
+  default_prompt: "用 $sticker-video-producer 把这段口播稿做成贴纸风短视频，先给我逐镜视觉隐喻和纸片入场顺序。"
